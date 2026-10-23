@@ -59,7 +59,7 @@ Source question: <https://reports.verasight.io/r/2026-243-prediction-markets-rep
 
 ## 2026-243_q14_poll_vs_odds
 
-Imagine it's a week before an election. [Field-SRC_FIRST] shows Candidate A ahead. At the same time, [Field-SRC_SECOND] has Candidate B as the favorite.
+Imagine it's a week before an election. A well-known public opinion poll shows Candidate A ahead. At the same time, a betting market, where people wager real money on the outcome, has Candidate B as the favorite.
 
 Which do you think is more likely to be right about who wins?
 
